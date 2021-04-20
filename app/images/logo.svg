@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="217" height="31" viewBox="0 0 217 31">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 32px;
+        fill: #fb7d7e;
+        font-family: "Segoe Script";
+      }
+
+      .cls-2 {
+        fill: #fac81b;
+        font-family: "Myriad Pro";
+      }
+    </style>
+  </defs>
+  <text id="LazyDeveloper" class="cls-1" x="-3" y="23">Lazy<tspan class="cls-2">Developer</tspan></text>
+</svg>
