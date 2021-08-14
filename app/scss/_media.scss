@@ -1,9 +1,5 @@
 @media(max-width: 1400px){
-  .technologies{
-    &__items{
-      grid-gap: 20px;
-    }
-  }
+
   .works{
     &__items{
       grid-template-columns: repeat(2,1fr);
@@ -11,11 +7,7 @@
   }
 }
 @media(max-width: 1100px){
- .technologies{
-  &__items{
-    grid-template-columns: repeat(3,1fr);
-  }
-  }
+
   .works{
     &__image,
     &__item{
@@ -62,14 +54,6 @@
       font-size: 16px;
     }
   }
-  .technologies{
-    &__items{
-      grid-template-columns: repeat(2,1fr);
-    }
-    &__item{
-      margin: 0 auto;
-    }
-  }
   .works{
     &__image,
     &__item{
@@ -89,11 +73,6 @@
   .about{
     &__title{
       font-size: 30px;
-    }
-  }
-  .technologies{
-    &__items{
-      grid-template-columns: repeat(1,1fr);
     }
   }
   .works{
