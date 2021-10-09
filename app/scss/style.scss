@@ -69,50 +69,6 @@
     display: none;
   }
 }
-.about{
-  padding: 70px 0 30px;
-  &__title{
-    font-size: 60px;
-    color: $accent;
-    text-align: center;
-    margin-bottom: 100px;
-  }
-  &__item{
-    text-align: center;
-  }
-  &__item-title{
-    font-size: 30px;
-    color: $header;
-    margin-bottom: 50px;
-  }
-  &__text{
-    font-size: 20px;
-    color: $header;
-  }
-  .slick-dots{
-    padding-top: 50px;
-    margin-left: -15px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    button{
-      margin-left: 15px;
-      font-size: 0;
-      width: 40px;
-      height: 40px;
-      border-radius: 50%;
-      background-color: $bg;
-      border: 5px solid $dots;
-      outline: 0;
-      cursor: pointer;
-    }
-  }
-  .slick-active{
-    button{
-      background-color: $dots;
-    }
-  }
-}
 .works{
   padding: 70px 0 70px;
   &__title{
